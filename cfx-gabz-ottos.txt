@@ -1,1 +1,1 @@
-{"version":"8.0.1", "notes":"multiple fixes + works on build 2189"}
+{"version":"8.0.2", "notes":"fixes a texture issue on gas pumps"}
