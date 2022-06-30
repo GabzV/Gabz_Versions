@@ -1,1 +1,1 @@
-{"version":"8.0.1", "notes":"adds a targetable vault keypad"}
+{"version":"8.0.0", "notes":"none"}
