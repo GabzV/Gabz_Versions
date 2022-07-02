@@ -1,1 +1,1 @@
-{"version":"8.0.1", "notes":"fix LOD issues with Fleeca Bank on Route68 (subscription package)"}
+{"version":"8.0.2", "notes":"fix invisible shell (standalone package only)"}
