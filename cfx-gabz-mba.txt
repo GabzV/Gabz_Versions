@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"none"}
+{"version":"1.0.1", "notes":"increased rocket league ball LOD distance, fixed curling alignment and floating decals, added extra fences and tweaked collisions to prevent people from leaving the tracks in gokart"}

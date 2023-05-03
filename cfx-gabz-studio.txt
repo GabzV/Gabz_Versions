@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"none"}
+{"version":"1.0.1", "notes":"saved ~50MB of streamed files upon updating to 2545"}

@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"none"}
+{"version":"1.0.1", "notes":"fixed an issue causing the interior to sometimes disappear for some people, fixed a collision issue on the road"}

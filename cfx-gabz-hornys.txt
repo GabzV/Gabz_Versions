@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"none"}
+{"version":"1.0.1", "notes":"fixed an issue where the building roof was clipping through the interior"}
